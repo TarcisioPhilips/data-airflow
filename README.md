@@ -1,4 +1,4 @@
-"# Material de Apoio" 
+# Material de Apoio
 
 Iniciando o container do Airflow (Lembre de iniciar na estrutura de diretórios correta)
 
